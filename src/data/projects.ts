@@ -28,6 +28,7 @@ export const projects: Project[] = [
       "A full-stack decision-support prototype that helps court registries triage pending cases using a transparent, rule-based priority engine — not a black-box model. Covers the full workflow from case intake to explainable scoring, AI-generated summaries, judge override with audit logging, and a bench-scheduling optimizer.",
     status: "In Progress",
     tags: ["React", "TypeScript", "Flask", "SQLAlchemy", "Tailwind CSS", "JWT Auth"],
+    demoUrl: "https://nyayaai-mvp-frontend.onrender.com/",
     repoUrl: "https://github.com/YashviShah514/nyayaai-mvp",
   },
 ];
