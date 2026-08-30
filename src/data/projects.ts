@@ -19,6 +19,7 @@ export const projects: Project[] = [
       "Makes it easier to donate essential items, discover community requests, and track social impact through dedicated donor, NGO, and administrator dashboards. Includes donation and item management, community request tracking, user registration and login, and category filtering with interactive forms.",
     status: "Live",
     tags: ["HTML", "CSS", "JavaScript", "Font Awesome"],
+    demoUrl: "https://sharehands.onrender.com/",
     repoUrl: "https://github.com/YashviShah514/ShareHands",
   },
   {
